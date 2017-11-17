@@ -1,1 +1,10 @@
 sample
+update
+https://github.com/HiroyukiMiyazaki/vanish.git
+
+git remote add origin https://github.com/HiroyukiMiyazaki/vanish.git
+git push -u origin master
+
+git branch testbranch
+
+git checkout testbranch
